@@ -1,0 +1,12 @@
+# DEFAULT_NETWORK = "mumbai"
+DEFAULT_NETWORK_NAME = 'sepolia'
+# DEFAULT_NETWORK = "mainnet"
+
+POLYGON_MUMBAI_URL = ""
+POLYGON_MUMBAI_SECRET_KEY = ""
+
+SEPOLIA_URL = ""
+SEPOLIA_SECRET_KEY = ""
+SEPOLIA_SECRET_KEY2 = ""
+
+# https://faucets.chain.link/sepolia
